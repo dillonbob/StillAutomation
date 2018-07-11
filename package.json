@@ -1,0 +1,25 @@
+{
+  "name": "stillautomation",
+  "version": "1.0.0",
+  "description": "Automate distilling and brewing for distillin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dillonbob/StillAutomation.git"
+  },
+  "keywords": [
+    "distilling"
+  ],
+  "author": "Bob Dillon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dillonbob/StillAutomation/issues"
+  },
+  "homepage": "https://github.com/dillonbob/StillAutomation#readme",
+  "dependencies": {
+    "mosca": "^2.8.2"
+  }
+}
